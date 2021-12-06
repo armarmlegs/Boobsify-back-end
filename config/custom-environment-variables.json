@@ -1,5 +1,5 @@
 {
   "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "vidly_db": "vidly_db"
+  "db": "vidly_db"
 }
 
